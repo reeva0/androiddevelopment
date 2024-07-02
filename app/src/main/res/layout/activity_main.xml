@@ -79,7 +79,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:text="Show result in the second screen"
+        android:text="Show result"
         android:layout_below="@id/gender_spinner"
         android:layout_centerHorizontal="true" />
 
